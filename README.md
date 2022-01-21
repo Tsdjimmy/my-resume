@@ -1,2 +1,2 @@
 # my-resume
-Jimoh Resume
+Jimoh's Resume
